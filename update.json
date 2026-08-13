@@ -3,9 +3,9 @@
     "kutuphane-ocr@ibrahimyildiz.art": {
       "updates": [
         {
-          "version": "0.1.1",
-          "update_link": "https://github.com/sanaatchi/kutuphane-ocr-releases/releases/download/v0.1.1/kutuphane-ocr.xpi",
-          "update_hash": "sha512:9c1869f44367ba24d5840331f0c67e61db5aae3d48e1456e016b8a60ec621ef5a263335d805c82571864b6fc239cdde3c353d856d741aefc9c8b43ecd786f352",
+          "version": "0.2.0",
+          "update_link": "https://github.com/sanaatchi/kutuphane-ocr-releases/releases/download/v0.2.0/kutuphane-ocr.xpi",
+          "update_hash": "sha512:91f3897dd256e09d7143b7d7808bff082a44461cd2ec10734191ce195bf3a57a5b2893ec8c6a888d12ee7ae3aff697e9f7ffcd0807f29597cb1f62ee404b8f8e",
           "applications": {
             "zotero": {
               "strict_min_version": "7.0",
